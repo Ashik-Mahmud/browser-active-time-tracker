@@ -23,7 +23,7 @@ This project is a starter template for building modern Chrome extensions using V
 ### Clone this repository:
 
 ```
-git clone https://github.com/omribarmats/chrome-extension-starter.git new-project
+git clone https://github.com/Ashik-Mahmud/extension-starter.git new-project
 ```
 
 - Replace `new-project` with your project name
